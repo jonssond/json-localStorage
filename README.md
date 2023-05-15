@@ -12,5 +12,7 @@ Functions in the website:
 
   - Forget my password page, validating the University-ID and the e-mail, then proceeds to ask a new password and uptading it;
   - Forget my University-ID page, validating the ID. If the ID is in the "database", It shows the University-ID. If isn't, then says that this ID doesn't exists.
+
+  - It allows multiple Sign Ups, creating one profile to each registration, that's why I call it a "fake back-end".
  
  The focus wasn't in the looking itself, so It looks kinda poor in that way. My goal was to make a functional fake back-end utilizing just raw JavaScript, with localStorage and JSON imports.
