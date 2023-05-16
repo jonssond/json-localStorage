@@ -10,8 +10,8 @@ Functions in the website:
   - Login index page, validating the University-ID and the password;
   - After validation, low-key college website appearing user informations (complete name, ID, University-ID and E-mail);
 
-  - Forget my password page, validating the University-ID and the e-mail, then proceeds to ask a new password and uptading it;
-  - Forget my University-ID page, validating the ID. If the ID is in the "database", It shows the University-ID. If isn't, then says that this ID doesn't exists.
+  - Forgot my password page, validating the University-ID and the e-mail, then proceeds to ask a new password and uptading it;
+  - Forgot my University-ID page, validating the ID. If the ID is in the "database", It shows the University-ID. If isn't, then says that this ID doesn't exists.
 
   - It allows multiple Sign Ups, creating one profile to each registration, that's why I call it a "fake back-end".
  
