@@ -1,6 +1,6 @@
 # fake back-end with raw js
 
-This is a college project made with HTML5, CSS3 and JavaScript, which I make a University website with fake back-end utilizing localStorage and JSON for creating the database.
+This is a college project made with HTML5, CSS3 and JavaScript, which I did a University website with fake back-end utilizing localStorage and JSON for creating the database.
 
 Functions in the website: 
   - Sign Up function, registering the name, surname, ID, University-ID, E-mail and password;
