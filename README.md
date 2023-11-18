@@ -1,4 +1,4 @@
-# fake back-end with raw js
+# Database made with JSON and localStorage
 
 This is a college project made with HTML5, CSS3 and JavaScript, which I did a University website with fake back-end utilizing localStorage and JSON for creating the database.
 
